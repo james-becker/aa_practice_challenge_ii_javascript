@@ -21,7 +21,6 @@ var noRepeatYear = function (year) {
 };
 
 console.log( noRepeatYear(1988) ); // false
-console.log( noRepeatYear(1987) ); // true
 
 var noRepeats = function (yearStart, yearEnd) {
 	var arr = [];
@@ -32,3 +31,7 @@ var noRepeats = function (yearStart, yearEnd) {
 };
 
 console.log(noRepeats(1980, 1987) );
+
+
+
+// Took about 40 minutes. Ouch. - JJB

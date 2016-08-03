@@ -15,6 +15,11 @@ var letterCount2 = function (str) {
 
 console.log(JSON.stringify(letterCount2('supercalifragilisticexpealodocious'), null, 4));
 
+
+
+
+// Took about 6 minutes after I figured out how to use the RegExp constructor. - JJB
+
 // puts("\nTests for #letter_count")
 // puts("===============================================")
 //     puts "letter_count(\"cat\") == {\"c\" => 1, \"a\" => 1, \"t\" => 1}: "  + (letter_count("cat") == {"c" => 1, "a" => 1, "t" => 1}).to_s

@@ -44,3 +44,6 @@ var orderedVowels = function (string) {
 
 console.log(orderedVowels('this is a test of the ordered vowels system'));
 
+
+
+// Took about 45 minutes. Ouch! - JJB

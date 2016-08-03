@@ -24,6 +24,10 @@ var wordUnscrambler = function (word, dictionary) {
 
 console.log(wordUnscrambler("turn", ["numb", "turn", "runt", "nurt"]));
 
+
+
+// Took about 14 minutes. Yikes! - JJB
+
 // puts("\nTests for #word_unscrambler")
 // puts("===============================================")
 //     puts "word_unscrambler(\"cat\", [\"tac\"]) == [\"tac\"]: "  + (word_unscrambler("cat", ["tac"]) == ["tac"]).to_s

@@ -38,4 +38,5 @@ var wonkyCoins = function (n) {
 
 console.log(wonkyCoins(0));
 
-//-- JJB
+
+// Took about 4 minutes. 8-) - JJB

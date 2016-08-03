@@ -44,3 +44,7 @@ var morseEncode = function (string) {
 	array = array.join('  ');
 	return array;
 };
+
+
+
+// Took about 34 minutes. - JJB

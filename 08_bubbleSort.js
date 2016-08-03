@@ -4,8 +4,6 @@
 // #
 // # Difficulty: 3/5
 
-//This took me about 6 minutes.
-
 var bubbleSort = function (arr) {
 	for ( i = 0 ; i < arr.length ; i ++ ) {
 		if (arr[i+1] < arr[i]) {
@@ -19,6 +17,8 @@ var bubbleSort = function (arr) {
 };
 
 console.log(bubbleSort([5, 6, 5, 1, 152, 153, 1442]));
+
+// Took about 6 minutes. - JJB
 
 // puts("\nTests for #bubble_sort")
 // puts("===============================================")

@@ -14,3 +14,5 @@ var nearestLarger = function (arr, idx) {
 		diff += 1;
 	}
 }
+
+// This is the only a/A practice problem I couldn't solve without looking at the solution. What I had going was embarrassingly overcomplicated. - JJB

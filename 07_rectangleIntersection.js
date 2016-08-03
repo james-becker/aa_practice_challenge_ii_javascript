@@ -51,9 +51,7 @@ console.log(recIntersection([[1, 1], [2, 2]], [[4, 4], [5, 5]])); // 'nil'
 console.log(recIntersection([[1, 1], [5, 4]], [[2, 2], [3, 5]])); // [[2, 2], [3, 4]]
 
 
-
-// def rec_intersection(rect1, rect2)
-// end
+// Took about 35 minutes. Ouch! - JJB
 
 // puts("\nTests for #rec_intersection")
 // puts("===============================================")
